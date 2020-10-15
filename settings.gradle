@@ -1,2 +1,3 @@
+include ':useutils'
 include ':app', ':android_base_utils'
 rootProject.name='Android_BaseUtils'
