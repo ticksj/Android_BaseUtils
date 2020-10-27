@@ -1,4 +1,4 @@
-package com.sj.android_base_utils.utils_log;
+package com.sj.android_base_utils.utils_record;
 
 import android.util.Log;
 

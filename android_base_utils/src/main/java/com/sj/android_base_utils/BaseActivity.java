@@ -2,7 +2,7 @@ package com.sj.android_base_utils;
 
 import android.os.Bundle;
 
-import com.sj.android_base_utils.utils_log.LogUtils;
+import com.sj.android_base_utils.utils_record.LogUtils;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
