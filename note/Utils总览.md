@@ -7,7 +7,13 @@
 > - String MD5(String string)
 > - String getFileMD5(File file)
 
-## 文件相关：Utils-file 
+## 文件相关：Utils-file
+
+### FileUtils
+
+> - 删除文件 boolean deleteFile(File file) 
+> - 查找文件 List<File> getFileList(File file) 
+> - 过滤查找文件 List<File> getFileList(File file, String endWith)
 
 ### ZipUtils
 
